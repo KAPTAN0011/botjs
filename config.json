@@ -1,0 +1,88 @@
+{
+    "bot": {
+        "owner": "1005385939243249825",
+        "prefix": "★",
+        "BotStatus": "★Güvenliğiniz Önceliğimizdir!★",
+        "BotFooter": "Botu kodlayan: ★KOMANDO#1955",
+        "cooldown": 8
+    },
+    "penals": {
+        "ban": {
+            "staff": "1046353042062196767",
+            "log": "1046353144633892924",
+            "limit": 3
+        },
+        "jail": {
+            "staff": "Yok Jail",
+            "roles": "Cezalı rolü id",
+            "log": "Ceza log id",
+            "limit": 5
+        },
+        "mute": {
+            "staff": "1046353043475660860",
+            "roles": "1046351252382044230",
+            "log": "1046353143321079818",
+            "limit": 5
+        },
+        "warn": {
+            "staff": "1046353043475660860",
+            "log": "1046353143321079818"
+        },
+        "transport": {
+            "staff": "Ta"
+        },
+        "points": {
+            "mutepoints": "10",
+            "banpoints": "30",
+            "jailpoints": "20",
+            "warnpoints": "5"
+        }
+    },
+    "logs": {
+        "taglog": "1046353140565409802",
+        "rollog": "1046353140565409802",
+        "messagelog": "1046353140565409802",
+        "seslog": "1046353140565409802"
+    },
+    "roles": {
+        "vip": "1046353037020639242",
+        "sponsor": "1046353019488452628",
+        "müzisyen": "1046353038392180778",
+        "team": "1046353036173385798"
+    },
+    "channels": {
+        "chat": "1046353113554108457",
+        "voicechannel": "1046353092746170441",
+        "welcomechannel": "1046353097120821268",
+        "rules": "1046353102313357342"
+    },
+    "registration": {
+        "unregistered": "1046353049096028180",
+        "man": ["1046353041449820231", "1046353041449820231"],
+        "woman": ["1046353040606773308", "1046353040606773308"],
+        "yetkilialim": "1046353008855892011",
+        "staff": "1046353013050191942",
+        "enaltyetkilirolü": "1046353034780876820",
+        "GuilDTag": "★",
+        "TagSymbol": "★",
+        "autonickname": "★ İsim | Yaş ",
+        "symbol": "|",
+        "suspecios": "1046459980125044756",
+        "susoeciosnickname": "Şüpheli Hesap",
+        "oneman": "1046353041449820231",
+        "onewoman": "1046353040606773308",
+        "minage": 13, 
+        "purchase": false
+    },
+    "Guild": {
+        "GuildID": "1046350905794121781",
+        "GuilDName": "★Komando",
+        "GuildOwnerRole": ["1046353002891591692"]
+    },
+    "emojis": {
+        "tada": "🎉",
+        "yes": "✅",
+        "no": "❌"
+
+    }
+} 
